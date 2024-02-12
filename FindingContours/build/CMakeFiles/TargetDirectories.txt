@@ -1,0 +1,3 @@
+/Users/ataberkgumus/Desktop/deneme1/build/CMakeFiles/deneme1.dir
+/Users/ataberkgumus/Desktop/deneme1/build/CMakeFiles/edit_cache.dir
+/Users/ataberkgumus/Desktop/deneme1/build/CMakeFiles/rebuild_cache.dir
